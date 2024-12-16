@@ -40,3 +40,9 @@ Clean Architecture состоит из нескольких принципов, 
 # Пользовательский интерфейс
 
 User flow диаграммы
+
+[Клиент](https://github.com/VadimProkopovich/Contract/blob/main/doc/User%20Flow%20-%20UserFlow%20%D0%9A%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%20(1).jpg)
+
+[Менеджер](https://github.com/VadimProkopovich/Contract/blob/main/doc/User%20Flow%20-%20UserFlow%20%D0%9C%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80.jpg)
+
+[Администратор](https://github.com/VadimProkopovich/Contract/blob/main/doc/User%20Flow%20-%20UserFlow%20%D0%90%D0%B4%D0%BC%D0%B8%D0%BD.jpg)
